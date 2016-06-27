@@ -6989,7 +6989,7 @@ footer p {
   background-color: #363838; }
   @media (min-width: 768px) {
     .menu-bg {
-      background: transparent url("/images/menu_sm.jpg") 50% 0 no-repeat;
+      background: transparent url("/images/menu_lg.jpg") 50% 0 no-repeat;
       background-size: 100%;
       background-attachment: fixed; } }
 
