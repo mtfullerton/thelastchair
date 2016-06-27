@@ -6838,6 +6838,14 @@ a.bg-danger:focus, a.bg-danger:hover {
   .hidden-print {
     display: none !important; } }
 
+a {
+  color: #fff;
+  text-decoration: none; }
+
+a:hover {
+  color: #fff;
+  text-decoration: none; }
+
 body {
   background: #373a3c;
   color: #ecf0f1; }
@@ -6880,20 +6888,26 @@ footer p {
     display: inline-block;
     float: none;
     font-size: 1.25rem;
-    font-family: "Montserrat", "sans-serif"; }
+    font-family: "Montserrat", "sans-serif";
+    padding: 0 20px; }
   .main-nav .navbar-nav .nav-link {
-    color: #000; }
+    color: #363838; }
     .main-nav .navbar-nav .nav-link:hover {
-      color: #363838; }
+      color: #95a5a6; }
+  .main-nav .navbar-nav .nav-link-sublime {
+    color: #FF6C0C; }
+    .main-nav .navbar-nav .nav-link-sublime:hover {
+      color: #95a5a6; }
 
 .site-header {
   background-color: #fff; }
 
 .header-top {
-  background-color: #363838; }
+  background-image: url("/images/dark_wood.png");
+  background-size: cover; }
   @media (min-width: 544px) {
     .header-top {
-      background: #363838 url("/images/banner.jpg") 50% 0 no-repeat;
+      background: #363838 url("/images/banner.jpg") 80% 0 no-repeat;
       background-size: 100%;
       background-attachment: fixed;
       height: 200px; } }
@@ -6921,6 +6935,8 @@ footer p {
     @media (min-width: 992px) {
       .header-top .header-address {
         left: 80px; } }
+    .header-top .header-address .telephone {
+      font-size: 1.35rem; }
   .header-top .header-hours {
     margin: 10px auto;
     max-width: 200px; }
@@ -7025,3 +7041,6 @@ footer p {
   font-family: "Montserrat", "sans-serif";
   text-transform: uppercase;
   text-align: center; }
+
+.menu-section {
+  padding: 30px 0 20px; }

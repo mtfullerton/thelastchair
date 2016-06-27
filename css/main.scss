@@ -107,6 +107,16 @@ $footer-color:               #7f8c8d;
 	}
 }
 
+a {
+	color:#fff;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#fff;
+	text-decoration:none;
+}
+
 body {
 	background:$gray-dark;
 	color:#ecf0f1;
@@ -161,11 +171,18 @@ footer p {
 			float:none;
 			font-size:1.25rem;
 			font-family:$font-family-montserrat;
+			padding:0 20px;
 		}
 		.nav-link {
-			color:#000;
+			color:$tlc-gray;
 			&:hover {
-				color:$tlc-gray;
+				color:#95a5a6;
+			}
+		}
+		.nav-link-sublime {
+			color:#FF6C0C;
+			&:hover {
+				color:#95a5a6;
 			}
 		}
 	}
@@ -176,9 +193,10 @@ footer p {
 }
 
 .header-top {
-	background-color:$tlc-gray;
+	background-image:url('/images/dark_wood.png');
+	background-size: cover;
 	@include media-breakpoint-up(sm) {
-		background:$tlc-gray url('/images/banner.jpg') 50% 0 no-repeat;
+		background:$tlc-gray url('/images/banner.jpg') 80% 0 no-repeat;
 		background-size:100%;
 		background-attachment:fixed;
 		height:200px;
@@ -208,6 +226,9 @@ footer p {
 		}
 		@include media-breakpoint-up(lg) {
 			left:80px;
+		}
+		.telephone {
+			font-size: 1.35rem;
 		}
 	}
 	.header-hours {
@@ -323,5 +344,9 @@ footer p {
 	font-family:$font-family-montserrat;
 	text-transform:uppercase;
 	text-align:center;
+}
+
+.menu-section {
+	padding:30px 0 20px;
 }
 
