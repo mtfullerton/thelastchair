@@ -1,6 +1,6 @@
 ---
 title: The Welch
-category: 'Fresh Soup & Salads'
+category: Wood-Fire Pizzas
 price: 12
 ---
 
