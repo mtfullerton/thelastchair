@@ -36,7 +36,6 @@ defaults:
       layout: "menu-item"
 
 _comments:
-  title: The page metatitle
   heading: Main page heading
   content_html: Main page content
   phone_tel: Phone number as numbers only
