@@ -1,6 +1,6 @@
 ---
 title: House-Made Brownie Sundae
-category: 'Fresh Soup & Salads'
+category: Finishing Touch
 price: 7
 ---
 
