@@ -1,5 +1,8 @@
 ---
 title: The Tecumseh
-category: 'Fresh Soup & Salads'
-price: 8
+category: Wood-Fire Pizzas
+price: 14
 ---
+
+
+Roasted garlic oil, fresh shrimp, spinach, tomato, fresh herbs.
