@@ -1,5 +1,8 @@
 ---
 title: The Mount Bacon
-category: 'Fresh Soup & Salads'
-price: 8
+category: Wood-Fire Pizzas
+price: 13
 ---
+
+
+Roasted garlic oil, tart apple, smoked bacon, vermont cheddar, caramelized onions, &nbsp;local maple syrup.
