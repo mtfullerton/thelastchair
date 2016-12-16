@@ -1,6 +1,6 @@
 ---
 title: The Passaconaway
-category: 'Fresh Soup & Salads'
+category: Wood-Fire Pizzas
 price: 12
 ---
 
