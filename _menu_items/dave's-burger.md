@@ -7,4 +7,4 @@ price: 14
 
 Local ground beef, brioche bun, LTO
 
-Add cheddar 1 Add bacon 1
+<small>Add cheddar 1 Add bacon 1</small>
