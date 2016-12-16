@@ -1,5 +1,8 @@
 ---
 title: The Cannon Cliff
-category: 'Fresh Soup & Salads'
-price: 8
+category: Wood-Fire Pizzas
+price: 12
 ---
+
+
+House-made pizza sauce, mozzarella, spicy italian sausage, crimini mushrooms, truffle oil.
