@@ -1,8 +1,8 @@
 ---
 title: The Mount Fried
-category: 'Fresh Soup & Salads'
+category: Wood-Fire Pizzas
 price: 11
 ---
 
 
-Roasted garlic oil, &nbsp;mozzarella, fresh wood-fired local vegetables, fresh herbs.
+Roasted garlic oil, mozzarella, fresh wood-fired local vegetables, fresh herbs.
