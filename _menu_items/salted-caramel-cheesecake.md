@@ -1,5 +1,7 @@
 ---
 title: Salted Caramel Cheesecake
-category: 'Fresh Soup & Salads'
-price: 8
+category: Finishing Touch
+price: 7
 ---
+
+
