@@ -10,6 +10,9 @@ nav_weight: 2
     {% for group in groups %}
     <div class="menu-section">
       <div class="menu-title">{{ group.name }}</div>
+      {% if group.name == "Fresh Soup & Salads" %}
+      <p class="text-xs-center"><em>Add to any salad: Maple Bacon Crumble 4 Tender Chicken 6 Wood-Fired Shrimp 7</em></p>
+      {% endif %}
       <div class="menu-items">
         {% for item in group.items %}
         <div class="menu-item">
