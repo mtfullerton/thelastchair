@@ -1,6 +1,6 @@
 ---
 title: Spinach and Artichoke Dip
-category: "Starters & Salads"
+category: "Snacks"
 price: 9
 ---
-Baby spinach, artichoke hearts, boursin and Vermont cheddar cheeses, wood-fired chips.
+Homemade dip served with toast points

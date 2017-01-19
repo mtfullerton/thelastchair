@@ -1,6 +1,6 @@
 ---
-title: Potato Skins
-category: "Starters & Salads"
-price: 8
+title: Loaded Potato Skins
+category: "Snacks"
+price: 9
 ---
-Loaded with aged cheddar, maple bacon, onions and sour cream.
+Cheddar cheese, bacon, topped with fresh chives and served with a side of sour cream

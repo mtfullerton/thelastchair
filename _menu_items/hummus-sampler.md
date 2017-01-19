@@ -1,6 +1,6 @@
 ---
 title: Hummus Sampler
-category: "Starters & Salads"
+category: "Snacks"
 price: 8
 ---
-Trio of house-made hummus, wood-fired chips.
+Three flavors of hummus served with toast points

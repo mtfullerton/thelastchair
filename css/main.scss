@@ -188,6 +188,20 @@ footer p {
 	}
 }
 
+.annoucement {
+		text-align:center;
+		padding-top: 14px;
+		padding-bottom: 8px;
+		margin-bottom: 0;
+		font-weight: 600;
+		@include media-breakpoint-up(sm) {
+			background:rgba(0,0,0,0.8);
+			border-radius:10px 10px 0 0;
+			margin:0;
+			font-size: 1.2rem;
+		}
+}
+
 .site-header {
 	background-color:#fff;
 }
@@ -196,10 +210,10 @@ footer p {
 	background-image:url('/images/dark_wood.png');
 	background-size: cover;
 	@include media-breakpoint-up(sm) {
-		background:$tlc-gray url('/images/banner.jpg') 80% 0 no-repeat;
+		background:$tlc-gray url('/images/banner2.jpg') 80% 0 no-repeat;
 		background-size:100%;
 		background-attachment:fixed;
-		height:200px;
+		height:250px;
 	}
 	.container {
 		position:relative;

@@ -1,6 +1,6 @@
 ---
 title: Chicken Wings
-category: "Starters & Salads"
+category: "Snacks"
 price: 9
 ---
-Tossed in buffalo or BBQ sauce, blue cheese dressing.
+Buffalo, BBQ or plain, served with celery choice of ranch or blue cheese

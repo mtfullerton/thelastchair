@@ -1,10 +1,10 @@
 ---
-title: "Dave's Burger"
-category: Entrees
-price: 14
+title: Dave's Burger
+category: Sandwiches
+price: 10
 ---
 
 
-Local ground beef, brioche bun, LTO
+8 oz hand-packed beef, Cheddar cheese, LTO
 
-<small>Add cheddar 1 <br> Add bacon 1</small>
+<small>Add bacon 1</small>
