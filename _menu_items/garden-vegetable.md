@@ -1,6 +1,6 @@
 ---
 title: Garden Vegetable
-category: Our Brick Oven Pizzas
+category: "Wood-Fired Pizzas"
 price: 12
 ---
 Local roasted vegetable medley

@@ -1,5 +1,5 @@
 ---
-title: Wood-fired Meatloaf
+title: Meatloaf
 category: "Entrées"
 price: 14
 ---

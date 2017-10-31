@@ -1,9 +1,8 @@
 ---
 title: Grilled Chicken
-category: Sandwiches
+category: "Sandwiches"
 price: 8
 ---
 
-Lettuce, tomato, onion
-
-<small> Add cheese 1 Add bacon 2</small>
+Lettuce, tomato, onion<br>
+<small><strong>Add ons:</strong> Cheese 1 Bacon 2</small>

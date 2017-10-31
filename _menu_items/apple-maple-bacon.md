@@ -1,6 +1,6 @@
 ---
 title: Apple Maple Bacon
-category: Wood Fired Pizzas
+category: "Wood-Fired Pizzas"
 price: 13
 ---
 

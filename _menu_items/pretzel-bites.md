@@ -1,6 +1,6 @@
 ---
 title: Pretzel Bites
-category: 'Snacks'
+category: "Snacks"
 price: 6
 ---
 

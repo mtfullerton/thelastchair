@@ -1,6 +1,6 @@
 ---
 title: Shrimp Scampi
-category: "Our Brick Oven Pizzas"
+category: "Wood-Fired Pizzas"
 price: 15
 ---
 Roasted garlic, shrimp, spinach, fresh tomatoes, fresh basil

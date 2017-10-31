@@ -1,6 +1,6 @@
 ---
 title: Margherita
-category: Our Brick Oven Pizzas
+category: "Wood-Fired Pizzas"
 price: 12
 ---
 Vine-ripe tomatoes, buffalo mozzarella, roasted garlic, fresh basil

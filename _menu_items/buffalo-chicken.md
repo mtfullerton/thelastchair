@@ -1,6 +1,6 @@
 ---
 title: Buffalo Chicken
-category: "Our Brick Oven Pizzas"
+category: "Wood-Fired Pizzas"
 price: 13
 ---
 

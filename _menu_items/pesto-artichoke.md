@@ -1,6 +1,6 @@
 ---
 title: Pesto &amp; Artichoke
-category: Our Brick Oven Pizzas
+category: "Wood-Fired Pizzas"
 price: 13
 ---
-Basil pesto, artichokes, baby spinach, mozzarella
+Basil pesto, artichokes, and baby spinach

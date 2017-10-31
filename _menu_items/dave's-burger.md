@@ -1,10 +1,9 @@
 ---
 title: Dave's Burger
-category: Sandwiches
+category: "Sandwiches"
 price: 10
 ---
 
 
-8 oz hand-packed beef, Cheddar cheese, LTO
-
-<small>Add bacon 1</small>
+8 oz beef, American cheese, lettuce, tomato, and onion<br>
+<small><strong>Add on:</strong> Bacon 1</small>

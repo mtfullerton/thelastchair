@@ -10,8 +10,8 @@ nav_weight: 2
     {% for group in groups %}
     <div class="menu-section">
       <div class="menu-title">{{ group.name }}</div>
-      {% if group.name == "Fresh Soup & Salads" %}
-      <p class="text-xs-center"><em>Add grilled chicken to any salad   4</em></p>
+      {% if group.name == "Greens" %}
+      <p class="text-xs-center"><em>Add grilled chicken to any salad 4</em></p>
       {% endif %}
       <div class="menu-items">
         {% for item in group.items %}
@@ -23,5 +23,6 @@ nav_weight: 2
       </div>
     </div>
     {% endfor %}
+    <p class="text-xs-center"><small>* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions.</small></p>
   </div>
 </div>

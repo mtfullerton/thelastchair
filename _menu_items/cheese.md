@@ -1,6 +1,6 @@
 ---
 title: Cheese
-category: Create Your Own Pie
+category: "Create Your Own Pie"
 price: 9
 ---
 
