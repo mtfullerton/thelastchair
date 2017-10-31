@@ -1,6 +1,6 @@
 ---
 title: Apple Maple Bacon
-category: Our Brick Oven Pizzas
+category: Wood Fired Pizzas
 price: 13
 ---
 
