@@ -9,7 +9,7 @@
 title: The Last Chair
 email: thelastchairnh@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Last Chair offers a destination unlike any other. Showcasing a menu developed with respect for the handcrafted woodfired oven, and offering dishes that are uncomplicated, yet elevated, in an atmosphere that is casual, yet exceptionally special, guests can expect to want to stay a while. Enjoy a handcrafted cocktail on the picturesque patio, observe craft brewing in process, and enjoy a meal infused with years of experience and a modern twist on historic methods.
+The Last Chair offers a destination unlike any other. Showcasing a menu developed with respect for the handcrafted woodfired oven, and offering dishes that are uncomplicated, yet elevated, in an atmosphere that is casual, yet exceptionally special, guests can expect to want to stay a while. Enjoy a handcrafted cocktail on the picturesque patio, observe craft brewing in process, and enjoy a meal infused with years of experience and a modern twist on historic methods.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.thelastchairnh.com" # the base hostname & protocol for your site
 street_address: 5 NH-25
