@@ -308,7 +308,7 @@ footer p {
 .menu-bg {
 	background-color:$tlc-gray;
 	@include media-breakpoint-up(md) {
-		background:transparent url('/images/menu_lg.jpg') 50% 0 no-repeat;
+		background:transparent url('/images/pizza.jpg') 50% 0 no-repeat;
 		background-size:100%;
 		background-attachment:fixed;
 	}
