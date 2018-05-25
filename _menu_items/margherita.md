@@ -3,4 +3,4 @@ title: Margherita
 category: "Wood-Fired Pizzas"
 price: 12
 ---
-Vine-ripe tomatoes, buffalo mozzarella, roasted garlic, fresh basil
+Garlic oil base, vine-ripe tomatoes, fresh mozzarella roasted garlic, and fresh basil
