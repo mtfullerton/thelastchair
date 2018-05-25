@@ -1,7 +1,7 @@
 ---
-title: Cherry Tomato Corn & Goat Cheese
+title: Pancetta & Pear
 category: "Wood-Fired Pizzas"
 price: 15
 ---
 
-Marinara base, red pepper flakes, shredded mozzarella, corn, cherry tomatoes, goat cheese, topped with basil
+Garlic oil base, shredded mozzarella, pancetta, Anjou pears, bleu cheese, topped with a balsamic glaze
