@@ -1,7 +1,7 @@
 ---
-title: Green Goddess
+title: Cherry Tomato Corn & Goat Cheese
 category: "Wood-Fired Pizzas"
-price: 13
+price: 15
 ---
 
-Pesto base, spinach, basil, garlic, and pepperoni
+Marinara base, red pepper flakes, shredded mozzarella, corn, cherry tomatoes, goat cheese, topped with basil
