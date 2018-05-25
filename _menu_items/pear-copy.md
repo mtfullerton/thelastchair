@@ -1,7 +1,7 @@
 ---
-title: Pancetta & Pear
+title: Tuscan Pizza
 category: "Wood-Fired Pizzas"
-price: 15
+price: 12
 ---
 
-Garlic oil base, shredded mozzarella, pancetta, Anjou pears, bleu cheese, topped with a balsamic glaze
+White sauce base, roasted garlic, spinach, roasted red peppers, and shredded mozzarella
