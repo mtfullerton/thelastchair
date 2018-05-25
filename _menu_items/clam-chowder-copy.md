@@ -1,7 +1,7 @@
 ---
-title: Clam Chowder
+title: Thai Chicken Soup with Red Curry
 category: "Soup"
-price: 7
+price: 8
 ---
 
-New England Style Clam Chowder
+Slow simmered chicken, red and green peppers in a lemongrass & coriander infused chicken stock with red curry, bamboo shoots, ginger and scallions
