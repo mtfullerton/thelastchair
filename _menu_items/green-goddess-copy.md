@@ -1,7 +1,7 @@
 ---
-title: Green Goddess
+title: Taco Pizza
 category: "Wood-Fired Pizzas"
-price: 13
+price: 14
 ---
 
-Pesto base, spinach, basil, garlic, and pepperoni
+Taco sauce base, hamburger, tomato, onions, jalapeños, shredded mozzarella, topped with shredded lettuce, taco seasoning, and a cilantro-lime aioli
