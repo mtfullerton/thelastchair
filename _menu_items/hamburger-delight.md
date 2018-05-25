@@ -4,4 +4,4 @@ category: "Wood-Fired Pizzas"
 price: 14
 ---
 
-Special sauce, hamburger, raw white onion, topped with cold tomatoes, and shredded lettuce
+Delight sauce, hamburger, raw onions, topped with cold tomatoes, and shredded lettuce
