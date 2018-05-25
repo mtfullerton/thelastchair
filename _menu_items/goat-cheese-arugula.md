@@ -4,4 +4,4 @@ category: "Wood-Fired Pizzas"
 price: 15
 ---
 
-Goat cheese, dried apricots, fresh arugula, balsamic reduction
+Garlic oil base, goat cheese, dried apricots, fresh arugula, and balsamic reduction
