@@ -1,7 +1,7 @@
 ---
-title: Chicken Bacon Ranch
+title: Chicken Caesar Pizza
 category: "Wood-Fired Pizzas"
-price: 14
+price: 13
 ---
 
-Ranch base with chicken and bacon
+Caesar base, shredded mozzarella and parmesan, topped with shredded romaine, and a crouton crumble
