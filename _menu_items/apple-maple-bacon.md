@@ -4,4 +4,4 @@ category: "Wood-Fired Pizzas"
 price: 13
 ---
 
-Roasted garlic oil, apple, bacon, caramelized onions, maple syrup
+Garlic oil base, apples, bacon, caramelized onions, and real NH maple syrup
