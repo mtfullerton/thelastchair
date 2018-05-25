@@ -4,4 +4,4 @@ category: "Sandwiches"
 price: 12
 ---
 
-Wood-fired pork, BBQ sauce, homemade slaw
+Wood-fired pulled pork, BBQ sauce, with a side of cole slaw
