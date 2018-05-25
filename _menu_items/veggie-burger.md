@@ -1,7 +1,7 @@
 ---
 title: Veggie Burger
 category: "Sandwiches"
-price: 8
+price: 10
 ---
 
 
