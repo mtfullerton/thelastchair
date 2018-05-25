@@ -4,4 +4,4 @@ category: "Wood-Fired Pizzas"
 price: 14
 ---
 
-BBQ sauce, wood-fired pulled pork, caramelized onions
+BBQ sauce, wood-fired pulled pork, and caramelized onions
