@@ -1,6 +1,6 @@
 ---
-title: Arugula Spring-Mixed Salad
+title: Heirloom Tomato Caprese
 category: "Greens"
 price: 10
 ---
-Topped with goat cheese, balsamic vinaigrette, dried apricots and a fried egg
+Sliced heirloom tomatoes stacked with fresh mozzarella, basil, topped with a balsamic glaze
