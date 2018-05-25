@@ -1,9 +1,6 @@
 ---
-title: Mac N Cheese
+title: Pork Wild Wings
 category: "Entrées"
-price: 9
+price: 13
 ---
-Homemade three-cheese sauce served over cavatappi pasta and stone oven finished<br>
-<small>
-  <strong>Gluten Free Pasta</strong> 3<br>
-  <strong>Add-ons:</strong> Bacon 3 Pulled chicken 4 Pulled pork 4</small>
+4 oz Pork wings tossed in BBQ sauce, served with a bacon-egg potato salad
