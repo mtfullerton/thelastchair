@@ -1,5 +1,5 @@
 ---
 title: Basket of Fries
 category: "Snacks"
-price: 6
+price: 4
 ---
