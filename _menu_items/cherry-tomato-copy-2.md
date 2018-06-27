@@ -1,7 +1,7 @@
 ---
-title: Greek Pizza
+title: House Special
 category: "Wood-Fired Pizzas"
-price: 14
+price: 15
 ---
 
-Black olives, garlic, tomato, feta, shredded mozzarella, and greek dressing drizzle
+Pepperoni, sausage, pepper, onion, and mushroom
