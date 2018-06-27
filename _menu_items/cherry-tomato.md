@@ -1,7 +1,7 @@
 ---
-title: Cherry Tomato Corn & Goat Cheese
+title: Greek Pizza
 category: "Wood-Fired Pizzas"
-price: 15
+price: 14
 ---
 
-Marinara base, red pepper flakes, shredded mozzarella, corn, cherry tomatoes, goat cheese, topped with basil
+Black olives, garlic, tomato, feta, shredded mozzarella, and greek dressing drizzle
