@@ -1,6 +1,6 @@
 ---
-title: Pork Wild Wings
+title: Chicken Parmesan Skillet
 category: "Entrées"
-price: 13
+price: 12
 ---
-4 oz Pork wings tossed in BBQ sauce, served with a bacon-egg potato salad
+Golden fried chicken tenders tossed with cavatappi & marinara topped with parmesan and mozzarella cheese
