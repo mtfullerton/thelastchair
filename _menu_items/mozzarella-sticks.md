@@ -1,6 +1,6 @@
 ---
-title: Loaded Potato Skins
+title: Mozzarella Sticks
 category: "Snacks"
-price: 9
+price: 4
 ---
-Cheddar cheese, bacon, topped with fresh chives and served with a side of sour cream
+Served with a side of marinara sauce
