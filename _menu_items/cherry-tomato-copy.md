@@ -1,7 +1,7 @@
 ---
-title: Greek Pizza
+title: North of Fenway
 category: "Wood-Fired Pizzas"
-price: 14
+price: 12
 ---
 
-Black olives, garlic, tomato, feta, shredded mozzarella, and greek dressing drizzle
+Sausage, red pepper, and green pepper
