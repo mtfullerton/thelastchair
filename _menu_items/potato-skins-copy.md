@@ -1,6 +1,5 @@
 ---
-title: Loaded Potato Skins
+title: Chicken Bacon Ranch Quesadilla 
 category: "Snacks"
-price: 9
+price: 10
 ---
-Cheddar cheese, bacon, topped with fresh chives and served with a side of sour cream
